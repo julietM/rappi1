@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;400&family=Dosis:wght@400;600&family=Lato:wght@100&family=Ms+Madi&family=Nunito:wght@300&family=Oswald:wght@700&family=Poppins:ital,wght@0,300;1,200&family=Raleway:wght@200&family=Roboto:wght@300;400;700&family=Square+Peg&family=Zen+Loop&display=swap');
+.logo{
+ text-align: center; 
+ padding-top: 20px;
+ 
+}
+.lista1 li{
+    display: inline;
+    padding: 22px;   
+    font-family: 'Poppins', sans-serif; 
+ 
+    
+   }
+a{
+    text-decoration: none;
+    color: black;
+        
+}
+a:hover{
+    color: pink;
+}
+.lista2{
+    height: 260px;
+    padding-top: 40px;
+    color: white;
+    background-color: #FF6363;
+    text-align: center;
+}
+ .elegente1 :hover{
+    color: gray;
+}
+nav ul li {
+    
+    font-size: 18px;
+     
+      
+  
+  }
+  .imagen{
+    margin-top: 120px;
+    text-align: center;
+  }
+
+   .elegente1{
+   display: grid;
+   grid-template-columns: 95px 95px 95px 95px 95px 95px;
+   margin-left: 340px;
+   margin-top: 40px;
+   font-size: 18px;
+   }
+   p{
+       color: gray;
+       width: 790px;
+       margin-left: 170px;
+       margin-top: 36px;
+       text-align: left;
+   }
+   h4{
+       color: black;
+       width: 740px;
+       font-family:'Zen Loop', cursive;
+       font-size: 35px;
+
+      
+   }
+  
+
+
+   
+   .menu2{
+    
+        color: black;
+        width: 590px;
+        padding-left: 6px;
+        float: center;   
+        list-style-position: inside;
+   }
+   
+ .button{
+     width: 230px;
+     height: 40px;
+     background-color: #FF6363;    
+     border-radius: 60px;
+     padding-top: 10px;
+     margin-left: 410px;
+ }
+  .button a{
+      color: white;
+  }
+  .lista5 h4{
+      margin-left: 40px;
+  }
+  .simbolo{
+      display: flex;      
+      margin-left: 480px;
+      font-size: 28px;
+      color: gray;
+  }
+  .lista5  li{
+    float: right;
+   
+}
+li .menu2{
+   margin-left: 60px;
+}
